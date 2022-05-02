@@ -1,12 +1,10 @@
-# Project Title
+# ObjectSpread Leetcode
 
-**Description**:  Put a meaningful, short, plain-language description of what
-this project is trying to accomplish and why it matters.
-Describe the problem(s) this project solves.
+**Description**:  ObjectSpread's Leetcode is a technical documentation on different solutions to technical programming interview questions. It aims to provide a broader level of documentation on algorithmic problems to improve the experience of both beginners and senior engineers.
 
 The goal of this project is to provide an open discussion space and a contribution track on attempts to DSA questions
 
-These problems would be from variant sources, majorly Leetcode, Hackerrank and 
+These problems would be from variant sources, majorly Leetcode, Hackerrank and Coderbyte.
 
 Other things to include:
 
